@@ -1,0 +1,22 @@
+{
+    "name": "arturo-chill",
+    "title": "chill",
+    "description": "Dark theme with designmodo flat colors and material design colors",
+    "homepage": "https://github.com/arturoalviar/chill",
+    "version": "0.0.7",
+    "author": {
+        "name": "arturoalviar",
+        "url": "https://arturoalviar.com",
+        "email": "arturoalviar@gmail.com"
+    },
+    "license": "MIT",
+    "theme": {
+        "file": "theme.less",
+        "dark": true
+    },
+    "keywords": [
+        "dark", 
+        "flat",
+        "material design"
+    ]
+}
